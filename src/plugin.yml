@@ -1,0 +1,7 @@
+name: EssentialsPlugin
+version: 0.1
+author: FabiDev
+main: essentials.fabidev.main.Main
+
+commands:
+  vanish:
